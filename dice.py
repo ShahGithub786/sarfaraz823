@@ -1,5 +1,5 @@
 import random
-print("Dice Game of Two Player Those Who Score 50 first Will Win The Game\n")
+print("Dice Game of Two Player Those Who Score 50 first Will Win !! \n")
 first=input("Enter First Player Name")
 second=input("Enter Second Player Name")
 score1=0
